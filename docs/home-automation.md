@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# Heimautomatisierung
+# Heimautomatisierung von mir
 
 Mit IO Broker
 ![Smarthome](./public/smarthome.jpg)
