@@ -11,8 +11,11 @@ hero:
       text: Markdown Examples
       link: /markdown-examples
     - theme: brand
-      text: PV tech
+      text: PV Arbeiten
       link: /photovoltaik
+    - theme: brand
+      text: Heimautomatisierung
+      link: /home-automation
     - theme: alt
       text: API Examples
       link: /api-examples
@@ -26,3 +29,5 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+# Immer im Dienst
+![Bei der Arbeit](./public/worker.jpg)

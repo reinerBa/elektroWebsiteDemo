@@ -4,4 +4,5 @@ outline: deep
 
 # Heimautomatisierung
 
-Mit IO Broker (mit smartphone bearbeitet)
+Mit IO Broker
+![Smarthome](./public/smarthome.jpg)
