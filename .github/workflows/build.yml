@@ -1,0 +1,28 @@
+name: Build
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build-website:
+    name: buildet die website
+    runs-on: windows-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Setup Node.js environment
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20.x
+    
+    - name: execute build
+      working-directory: ./
+      run: npm ci /
+    - run: npm run build
+
+    
+    - name: 'save artifacts'
+      uses: actions/upload-artifact@v3
+      with:
+        name: webfiles
+        path: ./docs/.vitepress/dist/
+        retention-days: 3
