@@ -4,4 +4,4 @@ outline: deep
 
 # Heimautomatisierung
 
-Mit IO Broker
+Mit IO Broker (mit smartphone bearbeitet)
