@@ -9,6 +9,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Photovoltaik', link: '/photovoltaik' },
+      { text: 'Heimautomatisierung', link: '/home-automation' },
       { text: 'Examples', link: '/markdown-examples' }
     ],
 
