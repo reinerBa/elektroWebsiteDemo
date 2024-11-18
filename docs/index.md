@@ -29,5 +29,5 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
-# Immer im Dienst
+# Allzeit Kostenloser Strom
 ![Bei der Arbeit](./public/Offgridlogo.png)
