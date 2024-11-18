@@ -30,4 +30,4 @@ features:
 ---
 
 # Immer im Dienst
-![Bei der Arbeit](./public/Logo Final Offgrid Revolution1.png)
+![Bei der Arbeit](./public/Offgridlogo.png)
