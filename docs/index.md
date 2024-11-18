@@ -1,7 +1,7 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-![Bei der Arbeit](./public/Offgridlogo.png)
+
 hero:
   name: "Offgrid Revolution"
   text: "Offgrid Revolution GmbH"
@@ -30,4 +30,4 @@ features:
 ---
 
 # Allzeit Kostenloser Strom
-
+![Bei der Arbeit](./public/Offgridlogo.png)
