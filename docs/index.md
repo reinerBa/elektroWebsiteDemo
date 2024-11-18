@@ -3,20 +3,20 @@
 layout: home
 
 hero:
-  name: "MB Tech"
-  text: "Markus Baustelle"
-  tagline: My great project tagline
+  name: "Offgrid Revolution"
+  text: "Offgrid Revolution GmbH"
+  tagline: Hydrogen Long Time Storage
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: System
       link: /markdown-examples
     - theme: brand
-      text: PV Arbeiten
+      text: Speicherflaschen
       link: /photovoltaik
     - theme: brand
       text: Heimautomatisierung
       link: /home-automation
-    - theme: alt
+    - theme: brand
       text: API Examples
       link: /api-examples
 
@@ -30,4 +30,4 @@ features:
 ---
 
 # Immer im Dienst
-![Bei der Arbeit](./public/worker.jpg)
+![Bei der Arbeit](./public/Logo Final Offgrid Revolution1.png)
