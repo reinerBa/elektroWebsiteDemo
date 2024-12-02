@@ -13,12 +13,9 @@ hero:
     - theme: brand
       text: Speicherflaschen
       link: /photovoltaik
-    - theme: brand
-      text: Heimautomatisierung
-      link: /home-automation
-    - theme: brand
-      text: API Examples
-      link: /api-examples
+   
+# Allzeit Kostenloser Strom
+![Bei der Arbeit](./public/Offgridlogo.png)
 
 features:
   - title: Solardach 
