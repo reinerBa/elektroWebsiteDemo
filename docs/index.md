@@ -15,7 +15,7 @@ hero:
       link: /photovoltaik
    
 # Allzeit Kostenloser Strom
-![Bei der Arbeit](./public/Offgridlogo.png)
+![Bei_der_Arbeit](./public/Offgridlogo.png)
 
 features:
   - title: Solardach 
@@ -27,4 +27,4 @@ features:
 ---
 
 # Allzeit Kostenloser Strom
-![Bei der Arbeit](./public/Offgridlogo.png)
+![Bei_der_Arbeit](./public/Offgridlogo.png)
